@@ -1,0 +1,211 @@
+* {
+	box-sizing: border-box;
+	font-family: sans-serif;
+}
+
+body {
+	background-color: #6d7993;
+	color: white;
+}
+
+#header {
+	background-color: #062f4f;
+}
+
+.navbar-brand {
+	padding-top: 10px
+	padding-left: 20px;
+}
+
+.navbar-brand h1 {
+	font-family: 'Lora', serif;
+	font-size: 3em;
+	font-weight: bold;
+	margin-bottom: 0px;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
+}
+
+#logo-img {
+	background: url('icc_logo2.jpg') no-repeat;
+	height: 150px;
+	width: 150px;
+	border-radius: 150px;
+	margin: 10px 15px 10px 50px;
+}
+
+#menu {
+	margin-top: 200px;
+	background-color: #062f4f;
+	min-height: 50px;
+}
+
+.nav-menu {
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.content {
+	margin-top: 30px
+	margin-bottom: 30px;
+}
+
+#world-cup-2015 {
+	font-weight: bold;
+	margin-left: 450px;
+}
+
+#world-img {
+	margin-top: 20px;
+	margin-left: 400px;
+}
+
+.links {
+	text-decoration: none;
+	color: white;
+}
+
+.row {
+	background-color: #0e0b16;
+	padding-bottom: 30px;
+	clear: both;
+}
+
+#copy {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	float: right;
+	min-height: 30px;
+}
+
+.team {
+	height: 200px;
+	width: 200px;
+	border-radius: 200px;
+}
+
+#india {
+	float: right;
+	margin-right: 250px;
+	font-size: 5em;
+	padding-top: 30px;
+}
+
+#srilanka {
+	float: right;
+	margin-right: 100px;
+	font-size: 5em;
+	padding-top: 30px;
+}
+
+#southafrica {
+	float: right;
+	margin-right: 30px;
+	font-size: 5em;
+	padding-top: 30px;
+}
+
+#pakistan {
+	float: right;
+	margin-right: 130px;
+	font-size: 5em;
+	padding-top: 30px;
+}
+
+#australia {
+	float: right;
+	margin-right: 150px;
+	font-size: 5em;
+	padding-top: 30px;
+}
+
+#newzealand {
+	float: right;
+	margin-right: 0px;
+	font-size: 5em;
+	padding-top: 30px;
+}
+
+.world-team {
+	height: 200px;
+	width: 48%;
+	float: left;
+	margin-right: 1%;
+	margin-bottom: 50px;
+}
+
+.world-cup {
+	float: left;
+	margin-top: 100px;
+	margin-left: 50px;
+	text-decoration: none;
+	color: white;
+	font-size: 5em;
+}
+
+#world-cup-img {
+	float: left;
+	width: 249px;
+	height: 308px;
+}
+
+.world-event {
+	width: 100%;
+	height: 400px;
+}
+
+#twenty20-cup-img {
+	float: left;
+	width: 384px;
+	height: 240px;
+}
+
+#champions-trophy-img {
+	float: left;
+	width: 308px
+}
+
+.champions-trophy {
+	float: left;
+	margin-top: 10px;
+	margin-left: 50px;
+	text-decoration: none;
+	color: white;
+	font-size: 5em;
+}
+
+#women-cup-img {
+	float: left;
+	width: 364px;
+	width: 308px;
+}
+
+.board {
+	height: 200px;
+	width: 30%;
+	float: left;
+	margin-right: 1.33%;
+	margin-bottom: 50px;
+}
+
+.board-img {
+	height: 150px;
+	width: 150px;
+	border-radius: 150px;
+}
+
+.board-tag {
+	float: right;
+	padding-top: 40px;
+	margin-right: 150px;
+}
+
+#photos {
+	float: left;
+}
+
+.photos-image {
+	margin: 5px;
+}
